@@ -21,7 +21,6 @@ public class SumAndMultiplication {
         }
         System.out.println("Сумма чисел: "+ sum);
 
-
         for (int i = 0; i < str.length; i++) {
             digit = Integer.parseInt(str[i]);
             mul *= digit;
